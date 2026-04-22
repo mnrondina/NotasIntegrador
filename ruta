@@ -1,0 +1,20 @@
+RUTA: INTEGRADOR UNIDAD 1
+
+OBJETIVO: 
+
+A) Crear un programa que maneje una lista de personas y los autos que estas poseen. 
+
+B) Nos indican que una persona puede ser dueño de más de un auto. Pero que los autos poseen como máximo un titular.
+
+CONSIDERACIONES:
+
+- ENTIDADES: PERSONAS Y AUTOS
+- LISTAS
+- CARDINALIDAD: PERSONA 1-N AUTOS
+
+PROCEDIMIENTO:
+
+1. CREAR LAS CLASES Y MÉTODOS.
+2. CREAR EL CONSTRUCTOR.
+3. CREAR FINALIZADOR.
+4. CREAR GUI
